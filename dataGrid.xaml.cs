@@ -57,8 +57,6 @@ namespace TreeView_DataGrid
             else
             {
                 musicians.Add(new Musician { Name = mus_Name.Text, Album = mus_Album.Text, Year = mus_Year.Text});
-                //Musician mus = musicians.Last();
-                //MessageBox.Show(mus.Name);
                 table.Items.Refresh();
             }
         }
