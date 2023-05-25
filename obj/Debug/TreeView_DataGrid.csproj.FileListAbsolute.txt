@@ -1,0 +1,17 @@
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\bin\Debug\TreeView_DataGrid.exe.config
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\bin\Debug\TreeView_DataGrid.exe
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\bin\Debug\TreeView_DataGrid.pdb
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\App.g.cs
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid_MarkupCompile.cache
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid_MarkupCompile.lref
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid.g.resources
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid.Properties.Resources.resources
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid.exe
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\TreeView_DataGrid.pdb
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\dataGrid.g.cs
+C:\Users\user.COMP-02\source\repos\TreeView_DataGrid\obj\Debug\dataGrid.baml

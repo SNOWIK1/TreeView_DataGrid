@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView_DataGrid", "TreeView_DataGrid.csproj", "{8C6AFEFD-1ED3-44AE-93F6-672565025579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6AFEFD-1ED3-44AE-93F6-672565025579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6AFEFD-1ED3-44AE-93F6-672565025579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6AFEFD-1ED3-44AE-93F6-672565025579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6AFEFD-1ED3-44AE-93F6-672565025579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5EBC48E-321D-40C1-ABBE-91C87FE44CC4}
+	EndGlobalSection
+EndGlobal
